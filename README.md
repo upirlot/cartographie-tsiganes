@@ -8,12 +8,12 @@
 
 - Decorations: À partir de cette carte que l’on veut un peu attractive pour les enfants c’est de mettre sur chacun des continents un personnage (un européen, un indien, un africain et un russe ! )
 
-![Data source](/sources/directions%20migratoires.jpg)
+![directions migratoires](/sources/directions-migratoires.jpg)
 
 ### Zoom carte de l'Europe
 
-![Data source](/sources/tsiganes-europe.jpg)
-![Data source](/sources/roms-europe.jpg)
+![tsiganes europe](/sources/tsiganes-europe.jpg)
+![roms europe](/sources/roms-europe.jpg)
 
 ### Zoom Arc méditerranéen
 
